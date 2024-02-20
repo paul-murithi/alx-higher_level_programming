@@ -1,16 +1,18 @@
-# alx-higher_level_programming
-
 # Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+# At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 # General
-Why Python programming is awesome
-Who created Python
-Who is Guido van Rossum
-Where does the name ‘Python’ come from
-What is the Zen of Python
-How to use the Python interpreter
-How to print text and variables using print
-How to use strings
-What are indexing and slicing in Python
-What is the official Python coding style and how to check your code with pycodestyle
+
+    What’s a database
+    What’s a relational database
+    What does SQL stand for
+    What’s MySQL
+    How to create a database in MySQL
+    What does DDL and DML stand for
+    How to CREATE or ALTER a table
+    How to SELECT data from a table
+    How to INSERT, UPDATE or DELETE data
+    What are subqueries
+    How to use MySQL functions
+
